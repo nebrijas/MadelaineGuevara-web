@@ -36,7 +36,9 @@ Aunque me parece una buena pieza, hay algunos puntos que se podrían mejorar
 
 
 
-En conclusión, la investigación me pareció muy buena. Imagino que debió tomar un tiempo prolongado debido a la gran cantidad de documentos que tuvieron que analizar. Pero lo más importante es que los resultados que encontraron fueron interesantes y reveladores. 
+
+
+**En conclusión,** la investigación me pareció muy buena. Imagino que debió tomar un tiempo prolongado debido a la gran cantidad de documentos que tuvieron que analizar, pero lo más importante es que los resultados que encontraron fueron interesantes y reveladores. 
 
 
 

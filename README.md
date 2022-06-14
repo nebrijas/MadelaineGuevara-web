@@ -3,6 +3,8 @@
 ### Comentarios sobre el reportaje de periodismo de datos:
 ## ["FÁBRICA DE TESIS: MÁS DE 1.700 TRABAJOS DE POSGRADO DE LA UCV REPITEN PATRONES"](https://ojo-publico.com/3514/universidad-cesar-vallejo-mas-de-1700-tesis-son-similares/Title/ "Fábrica de tesis")
 
+<img src="https://user-images.githubusercontent.com/107209151/173552126-fb8ad0ce-1a83-4f36-bd95-84c6fd37ec95.jpg" alt="tesis" width="400"/>
+
 He escogido este trabajo realizado por **Ojo Público**, un medio de comunicación peruano, que se dedica al periodismo de investigación y de datos de manera independiente.
 
 El reportaje fue publicado el 29 de mayo del presente año y toca un tema poco común de una situación que probablemente esté ocurriendo en otras universidades del mundo.

@@ -1,9 +1,9 @@
 # Actividad Dirigida 1
 
-### Comentarios sobre el reportaje de periodismo de datos:
+***Comentarios sobre el reportaje de periodismo de datos:***
 ## ["FÁBRICA DE TESIS: MÁS DE 1.700 TRABAJOS DE POSGRADO DE LA UCV REPITEN PATRONES"](https://ojo-publico.com/3514/universidad-cesar-vallejo-mas-de-1700-tesis-son-similares/Title/ "Fábrica de tesis")
 
-<img src="https://user-images.githubusercontent.com/107209151/173552126-fb8ad0ce-1a83-4f36-bd95-84c6fd37ec95.jpg" alt="tesis" width="400"/>
+<img src="https://user-images.githubusercontent.com/107209151/173552126-fb8ad0ce-1a83-4f36-bd95-84c6fd37ec95.jpg" alt="tesis" width="350"/>
 
 He escogido este trabajo realizado por **Ojo Público**, un medio de comunicación peruano, que se dedica al periodismo de investigación y de datos de manera independiente.
 
@@ -27,7 +27,7 @@ Esta investigación me pareció muy completa, a continuación, los aspectos que 
 3. **Los enlaces** permiten al lector acceder a la información cruda para que pueda corroborar lo que lee.
 4. **Las entrevistas** realizadas a diversas fuentes le aportan ángulos importantes a la nota.
 
-<img src="https://user-images.githubusercontent.com/107209151/173552126-fb8ad0ce-1a83-4f36-bd95-84c6fd37ec95.jpg" alt="tesis" width="400"/>
+
 
 
 ## Lo negativo
@@ -35,6 +35,7 @@ Aunque me parece una buena pieza, hay algunos puntos que se podrían mejorar
 1. **La extensión** a mi parecer puede ser un poco larga. Al ser un reportaje escrito, presentar tantos datos y abarcar tantas aristas puede ser demasiado para el lector.
 2. **Los gráficos**. Aunque están muy bien, hubiera sido aún mejor si alguno pudiera ser interactivo.
 3. **Falta de negritas** para detectar de manera más fácil los puntos más importantes dentro de los párrafos.
+
 
 
 

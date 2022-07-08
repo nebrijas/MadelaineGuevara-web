@@ -11,8 +11,9 @@ A su vez, este escrito se ha desarrollado a través del editor de texto **Nano**
 ## Primera parte
 
 Debimos convertir nuestro repositorio en una web servida desde Github. Para activar esta configuración seguimos estos pasos:
-	1. Ingresar a la sección de *pages* de nuestro repositorio. En mi caso: https://github.com/nebrijas/MadelaineGuevara-web/settings/pages
-        2. En el apartado de *Source* encontramos la opción de *Branch*, aquí escogemos **main** y en el folder seleccionamos **root**
+1. Ingresar a la sección de *pages* de nuestro repositorio. En mi caso: https://github.com/nebrijas/MadelaineGuevara-web/settings/pages
+
+2. En el apartado de *Source* encontramos la opción de *Branch*, aquí escogemos **main** y en el folder seleccionamos **root**
 
 Al activar estas opciones ya convertimos nuestro repositorio en un HTML.
 
@@ -50,46 +51,8 @@ el primero para la *actividad dirigida 1* y el segundo para la *actividad dirigi
 13. Agregamos **git commit -m** para colocar el comentario de las modificaciones. 
 
 14. Para finalizar aplicamos **git push** más **enter**. Este comando nos pide nuestro user name y el token personal. Con esto se actualiza el contenido en nuestro repositorio de GitHub
+
 Solo queda comprobar.
 
 
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-^G Help          ^O Write Out     ^W Where Is      ^K Cut           ^T Execute       ^C Location      M-U Undo         M-A Set Mark     M-] To Bracket   M-Q Previous     ^B Back
-^X Exit          ^R Read File     ^\ Replace       ^U Paste         ^J Justify       ^/ Go To Line    M-E Redo         M-6 Copy         ^Q Where Was     M-W Next         ^F Forward
- 
- 

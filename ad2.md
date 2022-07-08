@@ -14,7 +14,7 @@ Debimos convertir nuestro repositorio en una web servida desde Github. Para acti
 	1. Ingresar a la sección de *pages* de nuestro repositorio. En mi caso: https://github.com/nebrijas/MadelaineGuevara-web/settings/pages
         2. En el apartado de *Source* encontramos la opción de *Branch*, aquí escogemos **main** y en el folder seleccionamos **root**
 
-Al activar estas opciones ya convertimos nuestro archivo en un HTML.
+Al activar estas opciones ya convertimos nuestro repositorio en un HTML.
 
 
 ## Segunda Parte
@@ -42,7 +42,7 @@ oculto que se mantendrá en la carpeta superior del árbol.
 
 10. A continuación, escribimos **README.md ad1.md** y ejecutamos con **enter** para copiar el contenido del *README.md* en el nuevo archivo *ad1.md*.
 
-11. Abrimos **nano README.md** para editar el contenido de esta carpeta. Aquí pudimos modificar el titular y agregar dos enlaces; 
+11. Abrimos **nano README.md** para editar el contenido de esta carpeta. Aquí modificamos el titular y agregamos dos enlaces; 
 el primero para la *actividad dirigida 1* y el segundo para la *actividad dirigida 2*
 
 12. Como hemos modificado y creado nuevas carpetas, al aplicar **git status** más **enter** aparecen cambios no rastreados. Por lo que escribimos **git add README.md ad1.md** 

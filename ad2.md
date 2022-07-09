@@ -26,7 +26,7 @@ Al activar estas opciones ya convertimos nuestro repositorio en un HTML.
 
 3. En la terminal, primero escribimos el comando `pwd` y ejecutamos para conocer desde qué directorio estamos trabajando.
 
-4. Para copiar el directorio del repositorio en nuestro ordenador, ejecutamos `git clone` https://github.com/nebrijas/MadelaineGuevara-web/**
+4. Para copiar el directorio del repositorio en nuestro ordenador, ejecutamos `git clone` https://github.com/nebrijas/MadelaineGuevara-web/
 
 5. Escribimos el comando `ls` y **enter** para verificar la ubicación de nuestro archivo clonado.
 

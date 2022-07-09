@@ -45,10 +45,6 @@ Aunque me parece una buena pieza, hay algunos puntos que se podrían mejorar
 
 
 
-## ACTIVIDADES
--[Actividad dirigida 1](ad1.md)
-
--[Actividad dirigida 2](ad2.md)
 
 
 

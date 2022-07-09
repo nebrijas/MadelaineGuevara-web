@@ -24,33 +24,33 @@ Al activar estas opciones ya convertimos nuestro repositorio en un HTML.
 
 2. De aquí en adelante todos los cambios se realizan en la herramienta **GitBash**. Por lo que es necesario descargarla y acceder a la terminal.
 
-3. En la terminal, primero escribimos el comando **pwd** y ejecutamos para conocer desde qué directorio estamos trabajando.
+3. En la terminal, primero escribimos el comando `pwd` y ejecutamos para conocer desde qué directorio estamos trabajando.
 
-4. Para copiar el directorio del repositorio en nuestro ordenador, ejecutamos **git clone https://github.com/nebrijas/MadelaineGuevara-web/**
+4. Para copiar el directorio del repositorio en nuestro ordenador, ejecutamos `git clone` https://github.com/nebrijas/MadelaineGuevara-web/**
 
-5. Escribimos el comando **ls** y **enter** para verificar la ubicación de nuestro archivo clonado.
+5. Escribimos el comando `ls` y **enter** para verificar la ubicación de nuestro archivo clonado.
 
-6. Luego, colocamos **cd** seguido del nombre de nuestra carpeta clonada **MadelaineGuevara-web** y **enter** para cambiar a este archivo.
+6. Luego, colocamos `cd` seguido del nombre de nuestra carpeta clonada **MadelaineGuevara-web** y **enter** para cambiar a este archivo.
 
-7. A continuación ejecutamos **git config user.name** seguido de nuestro nombre de usuario **Madelaine Guevara** .Después, colocamos **git config user.email** seguido de nuestro correo
+7. A continuación ejecutamos `git config user.name` seguido de nuestro nombre de usuario **Madelaine Guevara** .Después, colocamos `git config user.email` seguido de nuestro correo
 **madeg_12@hotmail.com** 
 
 8. *Github* en vez de usar contraseña utiliza los "tokens". Así que es necesario ingresar a [GitHub-token](https://github.com/settings/tokens) para configurarlo. 
 Aquí seleccionamos **generar nuevo token**, lo nombramos *PD2* y en expiración ponemos 60 días.
 
-9. Copiamos el token y regresamos a *GitBash*, escribimos **echo + "(el token personal)"> ../.token** para guardar este token en un archivo 
+9. Copiamos el token y regresamos a *GitBash*, escribimos `echo + "(el token personal)"> ../.token` para guardar este token en un archivo 
 oculto que se mantendrá en la carpeta superior del árbol.
 
-10. A continuación, escribimos **README.md ad1.md** y ejecutamos con **enter** para copiar el contenido del *README.md* en el nuevo archivo *ad1.md*.
+10. A continuación, escribimos `README.md ad1.md` y ejecutamos con **enter** para copiar el contenido del *README.md* en el nuevo archivo *ad1.md*.
 
-11. Abrimos **nano README.md** para editar el contenido de esta carpeta. Aquí modificamos el titular y agregamos dos enlaces; 
+11. Abrimos `nano README.md` para editar el contenido de esta carpeta. Aquí modificamos el titular y agregamos dos enlaces; 
 el primero para la *actividad dirigida 1* y el segundo para la *actividad dirigida 2*
 
-12. Como hemos modificado y creado nuevas carpetas, al aplicar **git status** más **enter** aparecen cambios no rastreados. Por lo que escribimos **git add README.md ad1.md** 
+12. Como hemos modificado y creado nuevas carpetas, al aplicar `git status` más **enter** aparecen cambios no rastreados. Por lo que escribimos `git add README.md ad1.md` 
 
-13. Agregamos **git commit -m** para colocar el comentario de las modificaciones. 
+13. Agregamos `git commit -m` + "el comentario de las modificaciones" (entre comillas para distinguir que es texto y no código) 
 
-14. Para finalizar aplicamos **git push** más **enter**. Este comando nos pide nuestro user name y el token personal. Con esto se actualiza el contenido en nuestro repositorio de GitHub
+14. Para finalizar aplicamos `git push` más **enter**. Este comando nos pide nuestro user name y el token personal. Con esto se actualiza el contenido en nuestro repositorio de GitHub
 
 Solo queda comprobar.
 

@@ -1,6 +1,6 @@
 # Actividad dirigida 4
 
-En esta ** actividad dirigida 4** nos conectaremos con el API del COVID19 y analizaremos con **Panda**
+En esta **actividad dirigida 4** nos conectaremos con el API del COVID19 y analizaremos con **Panda**
 
 Nos conectaremos al API: https://api.covid19api.com/
 
